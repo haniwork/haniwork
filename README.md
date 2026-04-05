@@ -9,7 +9,7 @@ My career is evolving from building robust ETL pipelines and compliance dashboar
 ---
 
 ## 🚀 Current Focus: Transitioning to AI Engineering
-While my background is rooted in data engineering and governance, I am currently specializing in:
+While my background is rooted in data analytics and data engineering, I am currently specializing in:
 * **LLM Orchestration:** Developing applications using **LangChain** and **n8n** for complex workflow automation.
 * **AI Governance:** Building chatbots with **Microsoft Copilot Studio** featuring strict guardrails and audit trails.
 * **Enterprise AI Integration:** Integrating AI components into **SAP S/4HANA** ecosystems and Microsoft 365.
