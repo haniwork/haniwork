@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Hani Ihsanuddin 👋 
+# Hi, I'm Hani 👩🏻‍💻👋 
 ### Data Specialist | Aspiring AI Engineer | Ts. Certified Professional Technologist
 
 I am a **Data Analytics Engineer** with 5+ years of experience in the Malaysian GLC and MNC sectors. Currently, I am bridging the gap between traditional enterprise data architecture and **Applied Generative AI**. 
